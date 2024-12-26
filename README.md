@@ -1,5 +1,5 @@
 # Hello there!
-Olá, eu me chama *Maria Leticia* e estou começando no mundo da **`programação`**. 👩🏽‍💻💻
+Olá, eu sou *Maria Leticia* e estou começando no mundo da **`programação`**. 👩🏽‍💻💻
 
 📖 | Atualmente cursando **`Engenharia`**.
 
